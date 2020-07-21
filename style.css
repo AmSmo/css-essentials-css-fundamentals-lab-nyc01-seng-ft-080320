@@ -19,6 +19,6 @@ a {
 }
 
 #featured-property p {
-  max-width: 800px;
+  width: 800px;
   justify-self: center;
 }
