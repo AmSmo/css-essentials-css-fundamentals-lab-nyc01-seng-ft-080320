@@ -10,8 +10,7 @@ header {
 }
 
 figure {
-  justify-content: center;
-  
+  justify-items: center;
   font-size:14px;
 }
 
