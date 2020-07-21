@@ -27,7 +27,7 @@ nav a {
 
 #featured-property {
   text-align: center;
-  justify-self: center;
+  margin: auto;
   width: 800px;
 }
 
