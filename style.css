@@ -25,7 +25,8 @@ nav a {
 }
 
 #featured-property {
-  
+  margin-left: auto;
+  margin-right: auto;
   width: 800px;
 }
 
