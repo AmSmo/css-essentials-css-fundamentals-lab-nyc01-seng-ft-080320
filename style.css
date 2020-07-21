@@ -28,6 +28,7 @@ a {
   display: block;
   justify-content: center;
   padding: 0 10%;
+  min-width: 100%;
 }
 
 #details div {
