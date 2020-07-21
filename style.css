@@ -8,6 +8,6 @@ header {
   text-align: center;
 }
 
-img {
-  justify-self: center;
+figure {
+  justify-content: center;
 }
