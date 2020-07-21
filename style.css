@@ -28,7 +28,7 @@ a {
   display: block;
   justify-content: center;
   padding: 0 20px;
-  min-width: 100%;
+  width: 100%;
 }
 
 #details div {
