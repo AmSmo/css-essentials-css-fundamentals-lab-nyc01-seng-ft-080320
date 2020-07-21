@@ -9,6 +9,6 @@ header {
 }
 
 figure {
-  justify-content: center;
+  justify-self: center;
   max-width: 100%;
 }
