@@ -23,7 +23,6 @@ nav a {
 #featured-property p {
   text-align: center;
   margin: auto;
-  justify-self: center;
 }
 
 #featured-property {
@@ -42,5 +41,5 @@ nav a {
   float: left;
   background-color: red;
   width: 25%;
-margin: auto;
+  
 }
