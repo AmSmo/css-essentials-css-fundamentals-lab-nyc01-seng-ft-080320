@@ -12,6 +12,7 @@ header {
 figure {
   justify-content: center;
   text-align: center;
+  font-size:14px;
 }
 
 nav a {
