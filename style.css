@@ -27,11 +27,11 @@ a {
 #details {
   display: block;
   justify-content: center;
-  
   width: 100%;
 }
 
 #details div {
+  padding: 0 10%;
   float: left;
   background-color: red;
   width: 25%;
