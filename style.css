@@ -34,12 +34,12 @@ nav a {
   display: flex;
   justify-content: center;
   width: 100%;
-  flex: spacearound;
+  
 }
 
 #details div {
   float: left;
   background-color: red;
   width: 25%;
-  
+  flex: space-around;
 }
