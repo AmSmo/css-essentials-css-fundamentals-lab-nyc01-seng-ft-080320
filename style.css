@@ -25,10 +25,12 @@ a {
 
 #details {
   display: block;
+  justify-content: center;
 }
 
 #details div {
   float: left;
   background-color: red;
   width: 25%;
+  
 }
