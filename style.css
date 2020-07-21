@@ -12,3 +12,7 @@ figure {
   justify-content: center;
   text-align: center;
 }
+
+a {
+  padding: 0 10px;
+}
